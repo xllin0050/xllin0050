@@ -1,7 +1,7 @@
-### Hi there 👋, my name is Mason Lin
+### Hi there 👋, my name is Mason L [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/xllin/) 
 #### a Nolan Fan
 
-Skills: VUE JS / JS / HTML / CSS / tailwind
+#### Skills: VUE JS / JS / HTML / CSS / tailwind
 
 
  
@@ -12,7 +12,7 @@ Skills: VUE JS / JS / HTML / CSS / tailwind
 
 ![image](https://www.codewars.com/users/xllin0050/badges/small)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='25'>](https://www.linkedin.com/in/xllin/) 
+
 
 <!--
 **xllin0050/xllin0050** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
