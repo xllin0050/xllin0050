@@ -1,10 +1,9 @@
-### Hi there 👋, my name is Mason L [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/xllin/) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/xllin/) 
+
+### Hi there 👋, my name is Mason
 #### a Nolan Fan
 
 #### Skills: VUE JS / JS / HTML / CSS / tailwind
-
-
- 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=xllin0050&show_icons=true)  
 
