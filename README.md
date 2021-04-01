@@ -3,10 +3,8 @@
 
 Skills: VUE JS / JS / HTML / CSS / tailwind
 
-🌱 I’m currently learning Everything. 
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/xllin0050)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/xllin/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/tanzicodeboy)  
+ 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=xllin0050&show_icons=true)  
 
@@ -14,7 +12,7 @@ Skills: VUE JS / JS / HTML / CSS / tailwind
 
 ![image](https://www.codewars.com/users/xllin0050/badges/small)
 
-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='25'>](https://www.linkedin.com/in/xllin/) 
 
 <!--
 **xllin0050/xllin0050** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
