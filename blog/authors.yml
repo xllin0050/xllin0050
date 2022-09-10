@@ -1,3 +1,9 @@
+satoshi:
+  name: Lin Xinliang
+  title: Front End Engineer
+  url: https://github.com/xllin0050
+
+
 endi:
   name: Endilie Yacop Sucipto
   title: Maintainer of Docusaurus
@@ -7,8 +13,8 @@ endi:
 yangshun:
   name: Yangshun Tay
   title: Front End Engineer @ Facebook
-  url: https://github.com/yangshun
-  image_url: https://github.com/yangshun.png
+
+
 
 slorber:
   name: Sébastien Lorber
