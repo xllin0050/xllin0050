@@ -44,10 +44,6 @@ const config = {
     ({
       navbar: {
         title: "Forgetting Is a Crucial Part of Memory",
-        logo: {
-          alt: "My Site Logo",
-          src: "img/logo.svg",
-        },
         items: [
           {
             href: "https://github.com/xllin0050",
